@@ -1,0 +1,7 @@
+User Guide:
+
+1: Open command prompt in the project folder
+2: Type "python manage.py runserver" to run the local server if you have django installed in your local Computer , it will give you a link
+3: Open chrome, paste the local host link on the chrome
+4: In order to detect the SOPs click on detect button.
+5: The new window of the camera will popup 
